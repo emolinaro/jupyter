@@ -82,7 +82,7 @@ to show the wide variety of notebooks that people have shared online.
 ### The JupyterLab interface
 
 The second episode deals with the JupyterLab interface and how notebooks work. At
-this stage the instructor should open Jupyter-Lab, demonstrate the
+this stage the instructor should open JupyterLab, demonstrate the
 interface by clicking around and then launch a new notebook. Inside this notebook
 the instructor can add headings and text and a simple code cell to illustrate
 how cells work (copy-pasting from the lesson works well). A few important keyboard
@@ -90,7 +90,7 @@ shortcuts can be demonstrated.
 
 There is a discussion point on integrated development environments. This can
 be used as a discussion exercise, where participants are invited to talk about
-their prefered way to write code. The instructur can mention that JupyterLab is
+their prefered way to write code. The instructor can mention that JupyterLab is
 sort of like an IDE for notebooks.
 
 There's a paragraph and an exercise on Git extensions to Jupyter notebooks and JupyterLab

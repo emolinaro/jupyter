@@ -61,6 +61,7 @@ lists the available analyses and presents several options to browse them:
 - Download zip-file with source and data
 - Open the notebooks on [Microsoft Azure Notebooks](https://notebooks.azure.com/losc/libraries/tutorials) platform.
 - Open the notebooks on [Binder](http://beta.mybinder.org/repo/losc-tutorial/quickview).
+- Open the notebooks on [Google Colab](https://colab.research.google.com/github/losc-tutorial/Data_Guide/blob/master/Guide_Notebook.ipynb)
 
 Since Microsoft Azure requires a login to run the notebooks live (which is still free), we can try running the "Quickview Notebook" on Binder, [here's a direct link](http://beta.mybinder.org/repo/losc-tutorial/quickview).
 
